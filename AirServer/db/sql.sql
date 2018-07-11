@@ -1,1 +1,0 @@
-SELECT * FROM `flight_information` WHERE ? 
